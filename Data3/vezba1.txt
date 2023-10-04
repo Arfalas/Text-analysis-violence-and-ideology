@@ -1,0 +1,246 @@
+4 10 1924
+,Number of tokens: 11462,match_id:9580390278045680890, string_id:TokenMatch, Start:10420, End:10421, Text:napad,The number of matches is:9
+30 11 1923
+,Number of tokens: 14379,match_id:9580390278045680890, string_id:TokenMatch, Start:10877, End:10878, Text:nož,The number of matches is:9
+8 3 1924
+,Number of tokens: 10978,match_id:9580390278045680890, string_id:TokenMatch, Start:10398, End:10399, Text:žrtev,The number of matches is:9
+20 5 1923
+,Number of tokens: 12708,match_id:9580390278045680890, string_id:TokenMatch, Start:6429, End:6430, Text:grožnja,The number of matches is:6
+8 2 1923
+,Number of tokens: 6710,match_id:9580390278045680890, string_id:TokenMatch, Start:5854, End:5855, Text:žrtev,The number of matches is:4
+3 5 1924
+,Number of tokens: 16266,match_id:9580390278045680890, string_id:TokenMatch, Start:13382, End:13383, Text:izsiljevati,The number of matches is:24
+18 10 1924
+,Number of tokens: 10082,match_id:9580390278045680890, string_id:TokenMatch, Start:7343, End:7344, Text:napad,The number of matches is:12
+23 8 1924
+,Number of tokens: 13934,match_id:9580390278045680890, string_id:TokenMatch, Start:11544, End:11545, Text:boriti,The number of matches is:6
+31 7 1923
+,Number of tokens: 2373,match_id:9580390278045680890, string_id:TokenMatch, Start:11544, End:11545, Text:boriti,The number of matches is:0
+6 5 1923
+,Number of tokens: 13162,match_id:9580390278045680890, string_id:TokenMatch, Start:9944, End:9945, Text:trgajo,The number of matches is:7
+4 2 1923
+,Number of tokens: 17874,match_id:9580390278045680890, string_id:TokenMatch, Start:15055, End:15056, Text:ranjen,The number of matches is:5
+1 12 1924
+,Number of tokens: 8908,match_id:9580390278045680890, string_id:TokenMatch, Start:6693, End:6694, Text:borec,The number of matches is:5
+21 6 1924
+,Number of tokens: 12372,match_id:9580390278045680890, string_id:TokenMatch, Start:9655, End:9656, Text:napaden,The number of matches is:24
+31 5 1924
+,Number of tokens: 10710,match_id:9580390278045680890, string_id:TokenMatch, Start:9825, End:9826, Text:napadi,The number of matches is:9
+8 6 1923
+,Number of tokens: 19297,match_id:9580390278045680890, string_id:TokenMatch, Start:15998, End:15999, Text:nevarnost,The number of matches is:14
+13 5 1923
+,Number of tokens: 12858,match_id:9580390278045680890, string_id:TokenMatch, Start:10781, End:10782, Text:rana,The number of matches is:11
+16 2 1924
+,Number of tokens: 11118,match_id:9580390278045680890, string_id:TokenMatch, Start:10655, End:10656, Text:iztrgati,The number of matches is:5
+11 6 1924
+,Number of tokens: 18811,match_id:9580390278045680890, string_id:TokenMatch, Start:17964, End:17965, Text:orožje,The number of matches is:44
+5 4 1924
+,Number of tokens: 10940,match_id:9580390278045680890, string_id:TokenMatch, Start:6900, End:6901, Text:iztrgati,The number of matches is:6
+16 9 1923
+,Number of tokens: 16643,match_id:9580390278045680890, string_id:TokenMatch, Start:15569, End:15570, Text:Ranjena,The number of matches is:20
+2 9 1923
+,Number of tokens: 12511,match_id:9580390278045680890, string_id:TokenMatch, Start:10124, End:10125, Text:napadel,The number of matches is:13
+30 9 1923
+,Number of tokens: 9467,match_id:9580390278045680890, string_id:TokenMatch, Start:8867, End:8868, Text:napadi,The number of matches is:11
+20 12 1924
+,Number of tokens: 19129,match_id:9580390278045680890, string_id:TokenMatch, Start:15846, End:15847, Text:borec,The number of matches is:17
+6 11 1923
+,Number of tokens: 1600,match_id:9580390278045680890, string_id:TokenMatch, Start:1226, End:1227, Text:pobija,The number of matches is:3
+15 4 1923
+,Number of tokens: 17925,match_id:9580390278045680890, string_id:TokenMatch, Start:15843, End:15844, Text:znižati,The number of matches is:16
+4 8 1923
+,Number of tokens: 366,match_id:9580390278045680890, string_id:TokenMatch, Start:15843, End:15844, Text:znižati,The number of matches is:0
+24 5 1924
+,Number of tokens: 11005,match_id:9580390278045680890, string_id:TokenMatch, Start:6370, End:6371, Text:borili,The number of matches is:9
+31 12 1924
+,Number of tokens: 16397,match_id:9580390278045680890, string_id:TokenMatch, Start:8155, End:8156, Text:bomba,The number of matches is:6
+6 1 1924
+,Number of tokens: 8423,match_id:9580390278045680890, string_id:TokenMatch, Start:6925, End:6926, Text:borec,The number of matches is:9
+26 4 1924
+,Number of tokens: 9322,match_id:9580390278045680890, string_id:TokenMatch, Start:5907, End:5908, Text:napad,The number of matches is:9
+6 9 1924
+,Number of tokens: 11212,match_id:9580390278045680890, string_id:TokenMatch, Start:8985, End:8986, Text:napad,The number of matches is:16
+22 3 1924
+,Number of tokens: 10343,match_id:9580390278045680890, string_id:TokenMatch, Start:7191, End:7192, Text:borili,The number of matches is:4
+9 8 1924
+,Number of tokens: 10880,match_id:9580390278045680890, string_id:TokenMatch, Start:8793, End:8794, Text:žrtev,The number of matches is:16
+9 2 1924
+,Number of tokens: 17327,match_id:9580390278045680890, string_id:TokenMatch, Start:14136, End:14137, Text:nevarnost,The number of matches is:9
+6 12 1924
+,Number of tokens: 12284,match_id:9580390278045680890, string_id:TokenMatch, Start:11659, End:11660, Text:Nož,The number of matches is:6
+18 3 1923
+,Number of tokens: 10825,match_id:9580390278045680890, string_id:TokenMatch, Start:9627, End:9628, Text:uničiti,The number of matches is:14
+29 3 1924
+,Number of tokens: 15228,match_id:9580390278045680890, string_id:TokenMatch, Start:12555, End:12556, Text:orožje,The number of matches is:6
+27 10 1923
+,Number of tokens: 11543,match_id:9580390278045680890, string_id:TokenMatch, Start:10257, End:10258, Text:napad,The number of matches is:16
+27 10 1923
+,Number of tokens: 12786,match_id:9580390278045680890, string_id:TokenMatch, Start:11422, End:11423, Text:napad,The number of matches is:11
+2 8 1924
+,Number of tokens: 11222,match_id:9580390278045680890, string_id:TokenMatch, Start:10224, End:10225, Text:pretepli,The number of matches is:17
+18 11 1923
+,Number of tokens: 9140,match_id:9580390278045680890, string_id:TokenMatch, Start:7454, End:7455, Text:Napaden,The number of matches is:5
+08 4 1923
+,Number of tokens: 19026,match_id:9580390278045680890, string_id:TokenMatch, Start:14861, End:14862, Text:napadi,The number of matches is:14
+23 2 1924
+,Number of tokens: 11248,match_id:9580390278045680890, string_id:TokenMatch, Start:8216, End:8217, Text:boriti,The number of matches is:7
+30 12 1923
+,Number of tokens: 19706,match_id:9580390278045680890, string_id:TokenMatch, Start:11257, End:11258, Text:žrtev,The number of matches is:7
+3 6 1923
+,Number of tokens: 20812,match_id:9580390278045680890, string_id:TokenMatch, Start:15677, End:15678, Text:žrtev,The number of matches is:23
+2 6 1924
+,Number of tokens: 4206,match_id:9580390278045680890, string_id:TokenMatch, Start:3093, End:3094, Text:orožje,The number of matches is:12
+26 7 1924
+,Number of tokens: 10720,match_id:9580390278045680890, string_id:TokenMatch, Start:8449, End:8450, Text:žrtev,The number of matches is:11
+5 8 1923
+,Number of tokens: 14455,match_id:9580390278045680890, string_id:TokenMatch, Start:13337, End:13338, Text:pobijali,The number of matches is:8
+8 11 1924
+,Number of tokens: 11829,match_id:9580390278045680890, string_id:TokenMatch, Start:9312, End:9313, Text:napadel,The number of matches is:20
+1 7 1924
+,Number of tokens: 11432,match_id:9580390278045680890, string_id:TokenMatch, Start:10381, End:10382, Text:ubija,The number of matches is:21
+24 12 1924
+,Number of tokens: 14852,match_id:9580390278045680890, string_id:TokenMatch, Start:12287, End:12288, Text:bombo,The number of matches is:11
+5 9 1923
+,Number of tokens: 14114,match_id:9580390278045680890, string_id:TokenMatch, Start:12342, End:12343, Text:napad,The number of matches is:10
+13 12 1924
+,Number of tokens: 12526,match_id:9580390278045680890, string_id:TokenMatch, Start:9696, End:9697, Text:nasilje,The number of matches is:6
+26 8 1923
+,Number of tokens: 15316,match_id:9580390278045680890, string_id:TokenMatch, Start:11896, End:11897, Text:žrtev,The number of matches is:18
+27 6 1924
+,Number of tokens: 22662,match_id:9580390278045680890, string_id:TokenMatch, Start:21617, End:21618, Text:bomba,The number of matches is:37
+1 3 1924
+,Number of tokens: 10910,match_id:9580390278045680890, string_id:TokenMatch, Start:9770, End:9771, Text:borili,The number of matches is:12
+22 7 1923
+,Number of tokens: 8510,match_id:9580390278045680890, string_id:TokenMatch, Start:6936, End:6937, Text:napadi,The number of matches is:9
+19 8 1924
+,Number of tokens: 12175,match_id:9580390278045680890, string_id:TokenMatch, Start:5811, End:5812, Text:boriti,The number of matches is:9
+11 11 1923
+,Number of tokens: 17340,match_id:9580390278045680890, string_id:TokenMatch, Start:12397, End:12398, Text:bomba,The number of matches is:10
+1 1 1923
+,Number of tokens: 9720,match_id:9580390278045680890, string_id:TokenMatch, Start:9282, End:9283, Text:ranjena,The number of matches is:19
+13 12 1923
+,Number of tokens: 15726,match_id:9580390278045680890, string_id:TokenMatch, Start:14590, End:14591, Text:ubiti,The number of matches is:9
+7 10 1923
+,Number of tokens: 15683,match_id:9580390278045680890, string_id:TokenMatch, Start:12978, End:12979, Text:napadel,The number of matches is:8
+15 8 1924
+,Number of tokens: 15930,match_id:9580390278045680890, string_id:TokenMatch, Start:15625, End:15626, Text:orožje,The number of matches is:14
+19 7 1924
+,Number of tokens: 10328,match_id:9580390278045680890, string_id:TokenMatch, Start:8672, End:8673, Text:žrtev,The number of matches is:16
+8 4 1923
+,Number of tokens: 11476,match_id:9580390278045680890, string_id:TokenMatch, Start:8068, End:8069, Text:žrtev,The number of matches is:7
+10 10 1923
+,Number of tokens: 4812,match_id:9580390278045680890, string_id:TokenMatch, Start:4027, End:4028, Text:napad,The number of matches is:11
+26 1 1924
+,Number of tokens: 11009,match_id:9580390278045680890, string_id:TokenMatch, Start:10468, End:10469, Text:napad,The number of matches is:2
+8 9 1923
+,Number of tokens: 11225,match_id:9580390278045680890, string_id:TokenMatch, Start:8567, End:8568, Text:nevarnost,The number of matches is:10
+21 1 1923
+,Number of tokens: 8848,match_id:9580390278045680890, string_id:TokenMatch, Start:4930, End:4931, Text:rane,The number of matches is:6
+23 9 1923
+,Number of tokens: 15541,match_id:9580390278045680890, string_id:TokenMatch, Start:12031, End:12032, Text:razgrajati,The number of matches is:17
+14 1 1923
+,Number of tokens: 9950,match_id:9580390278045680890, string_id:TokenMatch, Start:9280, End:9281, Text:napadi,The number of matches is:9
+9 8 1924
+,Number of tokens: 1710,match_id:9580390278045680890, string_id:TokenMatch, Start:1251, End:1252, Text:žrtev,The number of matches is:1
+25 10 1924
+,Number of tokens: 9928,match_id:9580390278045680890, string_id:TokenMatch, Start:7332, End:7333, Text:napadeni,The number of matches is:11
+10 6 1923
+,Number of tokens: 8661,match_id:9580390278045680890, string_id:TokenMatch, Start:5169, End:5170, Text:žrtev,The number of matches is:9
+15 11 1924
+,Number of tokens: 18626,match_id:9580390278045680890, string_id:TokenMatch, Start:16918, End:16919, Text:nož,The number of matches is:16
+11 3 1923
+,Number of tokens: 11461,match_id:9580390278045680890, string_id:TokenMatch, Start:8585, End:8586, Text:orožje,The number of matches is:4
+17 5 1924
+,Number of tokens: 15769,match_id:9580390278045680890, string_id:TokenMatch, Start:10115, End:10116, Text:borili,The number of matches is:7
+1 4 1923
+,Number of tokens: 16119,match_id:9580390278045680890, string_id:TokenMatch, Start:12063, End:12064, Text:boriti,The number of matches is:12
+7 1 1923
+,Number of tokens: 9458,match_id:9580390278045680890, string_id:TokenMatch, Start:8562, End:8563, Text:bomba,The number of matches is:13
+7 6 1924
+,Number of tokens: 14827,match_id:9580390278045680890, string_id:TokenMatch, Start:13951, End:13952, Text:obrano,The number of matches is:48
+12 4 1924
+,Number of tokens: 16210,match_id:9580390278045680890, string_id:TokenMatch, Start:8311, End:8312, Text:Nevarnost,The number of matches is:10
+27 9 1924
+,Number of tokens: 14290,match_id:9580390278045680890, string_id:TokenMatch, Start:13285, End:13286, Text:orožje,The number of matches is:11
+13 1 1324 
+,Number of tokens: 8516,match_id:9580390278045680890, string_id:TokenMatch, Start:6896, End:6897, Text:iztisniti,The number of matches is:3
+28 6 1923
+,Number of tokens: 29059,match_id:9580390278045680890, string_id:TokenMatch, Start:25692, End:25693, Text:bombo,The number of matches is:25
+26 8 1924
+,Number of tokens: 10311,match_id:9580390278045680890, string_id:TokenMatch, Start:9456, End:9457, Text:Rane,The number of matches is:7
+211 1924
+,Number of tokens: 10845,match_id:9580390278045680890, string_id:TokenMatch, Start:8045, End:8046, Text:borili,The number of matches is:8
+17 6 1923
+,Number of tokens: 14321,match_id:9580390278045680890, string_id:TokenMatch, Start:12330, End:12331, Text:napadi,The number of matches is:12
+30 8 1924
+,Number of tokens: 11181,match_id:9580390278045680890, string_id:TokenMatch, Start:9905, End:9906, Text:napad,The number of matches is:10
+23 7 1923
+,Number of tokens: 9367,match_id:9580390278045680890, string_id:TokenMatch, Start:7093, End:7094, Text:rane,The number of matches is:13
+14 6 1924
+,Number of tokens: 17572,match_id:9580390278045680890, string_id:TokenMatch, Start:16099, End:16100, Text:borili,The number of matches is:34
+22 11 1924
+,Number of tokens: 11307,match_id:9580390278045680890, string_id:TokenMatch, Start:5647, End:5648, Text:žrtev,The number of matches is:10
+24 11 1923
+,Number of tokens: 8780,match_id:9580390278045680890, string_id:TokenMatch, Start:8056, End:8057, Text:napad,The number of matches is:3
+20 1 1924
+,Number of tokens: 17765,match_id:9580390278045680890, string_id:TokenMatch, Start:16209, End:16210, Text:nož,The number of matches is:9
+2 2 1924
+,Number of tokens: 14609,match_id:9580390278045680890, string_id:TokenMatch, Start:11465, End:11466, Text:žrtev,The number of matches is:14
+02 9 1924
+,Number of tokens: 5759,match_id:9580390278045680890, string_id:TokenMatch, Start:2468, End:2469, Text:napad,The number of matches is:10
+15 7 1923
+,Number of tokens: 8038,match_id:9580390278045680890, string_id:TokenMatch, Start:6123, End:6124, Text:ubiti,The number of matches is:16
+24 6 1923
+,Number of tokens: 15269,match_id:9580390278045680890, string_id:TokenMatch, Start:13303, End:13304, Text:napad,The number of matches is:6
+23 12 1923
+,Number of tokens: 13125,match_id:9580390278045680890, string_id:TokenMatch, Start:9473, End:9474, Text:napadel,The number of matches is:3
+20 9 1924
+,Number of tokens: 11239,match_id:9580390278045680890, string_id:TokenMatch, Start:7817, End:7818, Text:morilec,The number of matches is:12
+12 7 1924
+,Number of tokens: 18058,match_id:9580390278045680890, string_id:TokenMatch, Start:17232, End:17233, Text:ranjen,The number of matches is:31
+8 12 1923
+,Number of tokens: 9352,match_id:9580390278045680890, string_id:TokenMatch, Start:5842, End:5843, Text:napad,The number of matches is:7
+3 7 1924
+,Number of tokens: 279,match_id:9580390278045680890, string_id:TokenMatch, Start:150, End:151, Text:ranjen,The number of matches is:2
+28 1 1923
+,Number of tokens: 12198,match_id:9580390278045680890, string_id:TokenMatch, Start:8627, End:8628, Text:borili,The number of matches is:13
+5 7 1924
+,Number of tokens: 17507,match_id:9580390278045680890, string_id:TokenMatch, Start:14245, End:14246, Text:borec,The number of matches is:26
+4 11 1923
+,Number of tokens: 11003,match_id:9580390278045680890, string_id:TokenMatch, Start:9190, End:9191, Text:Napadi,The number of matches is:7
+30 10 1923
+,Number of tokens: 10961,match_id:9580390278045680890, string_id:TokenMatch, Start:8761, End:8762, Text:žrtev,The number of matches is:10
+20 11 1924
+,Number of tokens: 19027,match_id:9580390278045680890, string_id:TokenMatch, Start:18176, End:18177, Text:ranjen,The number of matches is:20
+25 2 1923
+,Number of tokens: 11850,match_id:9580390278045680890, string_id:TokenMatch, Start:7586, End:7587, Text:Prisiliti,The number of matches is:9
+10 5 1924
+,Number of tokens: 16398,match_id:9580390278045680890, string_id:TokenMatch, Start:13591, End:13592, Text:pobija,The number of matches is:17
+13 9 1924
+,Number of tokens: 15297,match_id:9580390278045680890, string_id:TokenMatch, Start:14292, End:14293, Text:napad,The number of matches is:28
+11 2 1923
+,Number of tokens: 19600,match_id:9580390278045680890, string_id:TokenMatch, Start:18276, End:18277, Text:napaden,The number of matches is:12
+4 3 1923
+,Number of tokens: 15619,match_id:9580390278045680890, string_id:TokenMatch, Start:13340, End:13341, Text:žrtev,The number of matches is:15
+15 3 1924
+,Number of tokens: 18427,match_id:9580390278045680890, string_id:TokenMatch, Start:16493, End:16494, Text:rane,The number of matches is:6
+18 2 1923
+,Number of tokens: 11464,match_id:9580390278045680890, string_id:TokenMatch, Start:8686, End:8687, Text:bomba,The number of matches is:7
+19 8 1923
+,Number of tokens: 8362,match_id:9580390278045680890, string_id:TokenMatch, Start:827, End:828, Text:obrano,The number of matches is:4
+15 8 1923
+,Number of tokens: 8479,match_id:9580390278045680890, string_id:TokenMatch, Start:6795, End:6796, Text:orožje,The number of matches is:9
+25 3 1923
+,Number of tokens: 19368,match_id:9580390278045680890, string_id:TokenMatch, Start:14641, End:14642, Text:boriti,The number of matches is:9
+11 2 1924
+,Number of tokens: 11298,match_id:9580390278045680890, string_id:TokenMatch, Start:9156, End:9157, Text:ubija,The number of matches is:12
+21 10 1923
+,Number of tokens: 17766,match_id:9580390278045680890, string_id:TokenMatch, Start:12173, End:12174, Text:napadel,The number of matches is:8
+28 4 1923
+,Number of tokens: 16875,match_id:9580390278045680890, string_id:TokenMatch, Start:13415, End:13416, Text:napadi,The number of matches is:15
+12 12 1923
+,Number of tokens: 9781,match_id:9580390278045680890, string_id:TokenMatch, Start:8921, End:8922, Text:napadel,The number of matches is:5
+7 10 1924
+,Number of tokens: 3746,match_id:9580390278045680890, string_id:TokenMatch, Start:3265, End:3266, Text:pobijali,The number of matches is:5
+19 4 1924
+,Number of tokens: 30265,match_id:9580390278045680890, string_id:TokenMatch, Start:24104, End:24105, Text:rana,The number of matches is:16
